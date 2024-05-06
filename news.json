@@ -1,0 +1,226 @@
+{
+  "news": [
+    {
+      "datetime": "",
+      "title": "「预告」公式生成器正在开发中～",
+      "msg": "<p>好多小伙伴可能在公式运用中比较困难，而且搜寻公式也比较麻烦，所以我接下去会开发一个简易的公式生成器来满足一些基本场景，敬请期待～</p>",
+      "show": false,
+      "type": "others"
+    },
+    {
+      "datetime": "2024/03/22 15:00",
+      "title": "组件库3.0上线啦！！！！",
+      "msg": "<img class='image' src='./assets/home.png' /><p>之前就有好多小伙伴反馈说组件库创建组件经常不成功或者卡顿，所以我重构了组件库技术栈！希望大家可以用得开心，<strong>并且我将取消组件库组件获取口令</strong>，大家都可以自由使用组件！</p><p style='color: red;'>此站将不再继续更新组件和模板</p>",
+      "show": true,
+      "type": "update",
+      "btnText": "立即前往",
+      "url": "https://httishere.github.io/widverse-site"
+    },
+    {
+      "datetime": "2023/11/30 14:45",
+      "title": "更新Notion模板",
+      "msg": "<img class='image' src='./assets/news/news-1130.png' />",
+      "show": true,
+      "type": "update",
+      "page": {
+        "name": "picks"
+      }
+    },
+    {
+      "datetime": "2023/10/21 14:35",
+      "title": "更新Notion公式2.0教程",
+      "msg": "<img class='image' src='./assets/templates/formula2.0.jpeg' />",
+      "show": true,
+      "type": "update",
+      "page": {
+        "name": "picks"
+      }
+    },
+    {
+      "datetime": "2023/07/28 11:50",
+      "title": "新增多项组件",
+      "msg": "<img class='image' src='./assets/wids/widget-35.png' /><img class='image' src='./assets/wids/widget-36.png' /><img class='image' src='./assets/wids/widget-37.png' /><img class='image' src='./assets/wids/widget-38.png' />",
+      "show": true,
+      "type": "update",
+      "page": {
+        "name": "time"
+      }
+    },
+    {
+      "datetime": "2023/07/02 15:58",
+      "title": "上新啦！「简好用的todo list」模版",
+      "msg": "<img class='image' src='./assets/templates/temp-todo.JPG' />",
+      "show": true,
+      "type": "update",
+      "page": {
+        "name": "picks"
+      }
+    },
+    {
+      "datetime": "2023/06/15 17:30",
+      "title": "👏 👏 阿汪同学模版库永久会员来啦！",
+      "msg": "<img class='image' src='./assets/news/news-0615.png' />",
+      "show": true,
+      "type": "update",
+      "page": {
+        "name": "pro"
+      },
+      "btnText": "成为会员【限时立减 20】"
+    },
+    {
+      "datetime": "2023/04/20 15:20",
+      "title": "新增「考研计划」和「运动减肥计划」模版",
+      "msg": "<img class='image' src='./assets/templates/temp-kaoyan-2.jpg' /><br><img class='image' src='./assets/templates/temp-jianfei.jpg' />",
+      "show": true,
+      "type": "update",
+      "page": {
+        "name": "picks"
+      }
+    },
+    {
+      "datetime": "2023/03/07 15:50",
+      "title": "新增「记账本 Pro版」模版",
+      "msg": "<p>新增：<br>✅ 贷记账户管理<br>✅ 月度账单报表</p><img class='image' src='./assets/templates/temp-jizhang-pro.jpg' />",
+      "show": true,
+      "type": "update",
+      "page": {
+        "name": "paid",
+        "params": {
+          "id": 16
+        }
+      }
+    },
+    {
+      "datetime": "2023/03/02 13:17",
+      "title": "新增极简多项倒数日组件",
+      "msg": "<p>可设置多个倒数日，并从创建时开始自动计算时间进度</p><img class='image' src='./assets/wids/widget-33.2.png' /><img class='image' src='./assets/wids/widget-33.3.png' />",
+      "show": true,
+      "type": "update",
+      "page": {
+        "name": "create",
+        "params": {
+          "id": 33,
+          "type": "time"
+        }
+      }
+    },
+    {
+      "datetime": "2023/02/26 14:00",
+      "title": "新增My days（倒数日&纪念日&正数日）组件",
+      "msg": "<p>可设置事项目标或开始日期，自动计算倒计时/正计时，可自定义背景色和文字颜色，同时提供15种背景图选择</p><img class='image' src='./assets/wids/widget-32.JPG' />",
+      "show": true,
+      "type": "update",
+      "page": {
+        "name": "create",
+        "params": {
+          "id": 32,
+          "type": "time"
+        }
+      }
+    },
+    {
+      "datetime": "2023/02/15 22:00",
+      "title": "新增Notion设置循环任务教程",
+      "msg": "<p>该教程可在Notion-教程内查看</p><img class='image' src='./assets/templates/video-repeat.jpg' />",
+      "show": true,
+      "type": "update",
+      "page": {
+        "name": "picks"
+      }
+    },
+    {
+      "datetime": "2023/02/08 22:56",
+      "title": "新增随机句子卡片组件",
+      "msg": "<p>该组件因使用其他API所以目前<strong class='focus'>限时开放已结束</strong>，可在组件-其他组件-随机句子组件查看使用</p><img class='image' src='./assets/wids/widget-1005.png' />",
+      "show": true,
+      "type": "update",
+      "page": {
+        "name": "time"
+      }
+    },
+    {
+      "datetime": "2023/01/27",
+      "title": "新增区间进度条组件",
+      "msg": "<p>可设置事项开始结束日期，自动计算当前时间进度（单进度）</p><img class='image' src='./assets/wids/widget-31.png' />",
+      "show": true,
+      "type": "update",
+      "page": {
+        "name": "create",
+        "params": {
+          "id": 31,
+          "type": "time"
+        }
+      }
+    },
+    {
+      "datetime": "2023/01/10",
+      "title": "新增组件评论区",
+      "msg": "<p>在组件页面可添加个人评论（无需注册），但请遵守网络规则文明用语，谢谢！</p><img class='image' src='./assets/news/news-0110.png' />",
+      "show": true,
+      "type": "update"
+    },
+    {
+      "datetime": "2023/01/08",
+      "title": "新增范围日历",
+      "msg": "<p>可自定义范围日期以及高亮颜色，可在组件-时间组件-范围日历查看</p><img class='image' src='./assets/widget-29.png' />",
+      "show": true,
+      "type": "update",
+      "page": {
+        "name": "create",
+        "params": {
+          "id": 29,
+          "type": "time"
+        }
+      }
+    },
+    {
+      "datetime": "2023/01/07",
+      "title": "新增快捷按钮组件",
+      "msg": "<p>提供多种应用图标，可自定义自己的快捷按钮，绑定文案和链接，可在组件-其他组件-快捷按钮查看</p><img class='image' src='./assets/tem-btn.png' />",
+      "show": true,
+      "type": "update",
+      "page": {
+        "name": "create",
+        "params": {
+          "id": 1004,
+          "type": "others"
+        }
+      }
+    },
+    {
+      "datetime": "2023/01/05",
+      "title": "年度格子支持暗黑（dark）模式",
+      "msg": "<p>可在组件-时间组件-年度格子查看</p><img class='image' src='./assets/year-cells-dark.png' />",
+      "show": true,
+      "type": "update",
+      "page": {
+        "name": "create",
+        "params": {
+          "id": 7,
+          "type": "time"
+        }
+      }
+    },
+    {
+      "datetime": "2022/12/24",
+      "title": "新增发光时钟组件",
+      "msg": "<p>可在组件-时间组件内查看</p><img class='image' src='./assets/shadow-clock.png' />",
+      "show": true,
+      "type": "update"
+    },
+    {
+      "datetime": "2022/12/05",
+      "title": "组件库2.0版本已到达！",
+      "msg": "<p>因为身体的缘故导致<strong class='focus'>组件库2.0</strong>一拖再拖，终于在今天上线啦！</p><p>这次更新全面优化了组件库UI，增加多个组件以及增加自定义组件功能</p><p><strong class='focus'>Notion模版：</strong>多个Notion模版可供拷贝</p><p>如果在使用过程中遇到什么问题或者说对组件有什么建议可以通过右下角的<strong class='focus'>「问题反馈」</strong>反馈给我哦～</p><p>感谢大家的支持！！</p>",
+      "show": true,
+      "type": "update"
+    },
+    {
+      "datetime": "2022/10/12",
+      "title": "部分组件为什么没有在组件库",
+      "msg": "<p>部分组件因特殊原因不可大量开放，所以我只在公众号<strong class='focus'>「汪汪汪世界」</strong>限定名额开放～</p>",
+      "show": true,
+      "type": "others"
+    }
+  ]
+}
